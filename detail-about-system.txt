@@ -1,0 +1,19 @@
+OP-14131 : AO is optional for all users and trigger pop-up when AO and AAO are not assigned
+1/ trigger popup warning when user update but without AO and AAP 
+2/ delete asterisk of AO 
+3/we can update info without AO , in past , we must assign user AO  before we accept update , now we don to need do that
+
+solve :
+_ Find Aproval infomation 
+_ Determine conditional where it in ,find all function correlate 
+_ 
+OP-12134 
+1/ some user duplicate database error
+
+OP-13559
+Have number mark for Pending level tabs when there are new user account request to approve/reject
+1/ ADD number with pending list 
+
+
+op-14070
+1/Delete the email address in DB when rejecting user account request in Level 1/2/3/Other place of work
